@@ -1,0 +1,18 @@
+[
+  {"id": "1", "name": "Silla de oficina", "category": "furniture", "condition": "used", "age_years": 2, "description": "Silla ergonómica en buen estado", "image": "chair.jpg"},
+  {"id": "2", "name": "Mesa de centro", "category": "furniture", "condition": "used", "age_years": 5, "description": "Mesa de madera con algunos rayones", "image": "table.jpg"},
+  {"id": "3", "name": "Bicicleta de montaña", "category": "sports", "condition": "used", "age_years": 3, "description": "Bicicleta con frenos nuevos", "image": "bike.jpg"},
+  {"id": "4", "name": "Licuadora", "category": "kitchen", "condition": "used", "age_years": 1, "description": "Licuadora funcional, poco uso", "image": "blender.jpg"},
+  {"id": "5", "name": "Sofá de dos plazas", "category": "furniture", "condition": "used", "age_years": 4, "description": "Sofá cómodo, tela sin manchas", "image": "sofa.jpg"},
+  {"id": "6", "name": "Set de ollas", "category": "kitchen", "condition": "new", "age_years": 0, "description": "Set de ollas sin usar", "image": "pots.jpg"},
+  {"id": "7", "name": "Estantería de libros", "category": "furniture", "condition": "used", "age_years": 6, "description": "Estantería de madera resistente", "image": "shelf.jpg"},
+  {"id": "8", "name": "Patineta", "category": "sports", "condition": "used", "age_years": 2, "description": "Patineta con ruedas nuevas", "image": "skateboard.jpg"},
+  {"id": "9", "name": "Cafetera", "category": "kitchen", "condition": "used", "age_years": 1, "description": "Cafetera de goteo funcionando bien", "image": "coffeemaker.jpg"},
+  {"id": "10", "name": "Escritorio", "category": "furniture", "condition": "used", "age_years": 3, "description": "Escritorio con cajones", "image": "desk.jpg"},
+  {"id": "11", "name": "Raqueta de tenis", "category": "sports", "condition": "used", "age_years": 2, "description": "Raqueta con encordado nuevo", "image": "racket.jpg"},
+  {"id": "12", "name": "Microondas", "category": "kitchen", "condition": "used", "age_years": 2, "description": "Microondas en excelente estado", "image": "microwave.jpg"},
+  {"id": "13", "name": "Lámpara de pie", "category": "furniture", "condition": "used", "age_years": 3, "description": "Lámpara de pie con pantalla nueva", "image": "lamp.jpg"},
+  {"id": "14", "name": "Pesas de mano", "category": "sports", "condition": "used", "age_years": 1, "description": "Set de pesas de 2kg y 5kg", "image": "weights.jpg"},
+  {"id": "15", "name": "Juego de vasos", "category": "kitchen", "condition": "new", "age_years": 0, "description": "Juego de 6 vasos sin abrir", "image": "glasses.jpg"},
+  {"id": "16", "name": "Cama individual", "category": "furniture", "condition": "used", "age_years": 5, "description": "Cama de madera con colchón incluido", "image": "bed.jpg"}
+]
